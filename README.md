@@ -16,3 +16,5 @@ This is how to make 8D videos quickly and relativly easily.
 12. Click VST3, then dearVR MICRO
 13. click the button that says dearVR MICRO
 14. Enjoy!
+
+For more support, email me at thaidakar21@gmail.com.
