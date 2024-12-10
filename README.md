@@ -3,7 +3,7 @@
 This is how to make 8D videos quickly and relativly easily.
 
 1. Install Audacity video editor(File included Here)
-2. Install DearVR Pro Plugin(File included here)
+2. Install DearVR Pro Plugin(Link to file included here)
 3. Run Audacity
 4. Click Effects on the top bar
 5. Click Plugin Manager
